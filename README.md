@@ -25,8 +25,8 @@ This Colab notebook performs stock price analysis for various companies in the X
    git clone https://github.com/username/xenalytics.git
    cd xenalytics
 2. **Open Google Colab:**
-   *Upload the notebook to your Google Drive.
-   *Open the notebook using Google Colab.
+   * Upload the notebook to your Google Drive.
+   * Open the notebook using Google Colab.
 3. **Run Cells Squentially**
 
 ## Datasets
